@@ -54,7 +54,7 @@
   display: none !important;
 }
 
-/* Cascadya cove font */
 * {
-  font-family: "CaskaydiaCove NF" !important;
+  /* font-family: "Berkeley Mono" !important; */
+  font-family: 'Berkeley Mono', 'JetBrains Mono', monospace;
 }
